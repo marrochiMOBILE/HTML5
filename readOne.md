@@ -54,3 +54,17 @@ jika kita lihat didalam tag elemen <p> itu ada atribut yg bernama align dan styl
 1. `<head>...<head/>` adalah tag pendukung atau bisa dibilang asset atau informasi yg dibuat oleh user
 1. `<body>...</body>` adalah tag yg akan menapilkan output ke layar
 
+# sekarang ayo kita buat aplikasi pertamu..!!
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+     <title>disini adalah judul</title>
+ </head>
+ <body>
+     Hai Dunia Yang Indah dan banyak diperubutan  
+ </body>
+</html>
+```
+
+cara menjalankanya mudah kalian hanya perlu membuka file dengan browser kalian saya sarankan untuk membuka di google chrome.
