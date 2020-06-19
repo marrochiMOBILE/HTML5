@@ -133,7 +133,7 @@ USA
 ```
 
 ```html
-nal override (bdo), the next line will be written from right to left (rtl):</p>
+<p>ngentotnal override (bdo), the next line will be written from right to left (rtl):</p>
 
 <bdo dir="rtl">This line will be written from right to left</bdo>
 ```
