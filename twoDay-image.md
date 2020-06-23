@@ -49,4 +49,12 @@ coba 1.1ex dibawah ini:
       <area shape="circle" coords="100,290,36" alt="Cup of coffee" href="https://www.tokopedia.com/find/guci-antik">
     </map>
 ```
-
+## <picture>...</picture>
+web akan memilihkan gambar yg sesuai dengan tampilan layar
+```html
+<picture>
+    <source media="(min-width: 650px)" srcset="https://i.pinimg.com/474x/bc/b6/7e/bcb67ef0a0f5679092f3cf4c357654d2.jpg">
+    <source media="(min-width: 465px)" srcset="https://i.pinimg.com/474x/68/2c/ee/682ceebb9973ec48fded0b665bc0c476.jpg">
+    <img src="https://i.pinimg.com/originals/bd/ef/0d/bdef0d6ecb4247b1719f07b972cac0dc.jpg" style="width:auto;">
+  </picture>
+```
